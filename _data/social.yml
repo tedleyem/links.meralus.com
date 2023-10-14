@@ -1,0 +1,9 @@
+- name: instagram
+  url: https://www.instagram.com/techdadteddy
+  icon: ri:instagram-fill
+  color: '#E4405F'
+
+- name: x
+  url: https://x.com/techdadteddy
+  icon: ri:twitter-x-fill
+  color: '#1D9BF0'

@@ -1,0 +1,21 @@
+- category: Blogs
+  items:
+    - title: Blogs
+      url: https://blog.meralus.com
+      icon: ri:film-fill # Icons are optional.
+
+- category: Projects
+  items:
+    - title: IelectroFix Solutions
+      url: https://ielectrosolutions.com/
+    - title: SuperDave for Hire
+      url: https://superdaveforhire.com/
+    - title: WhoVisions Presents
+      url: https://whovisionspresents.com/
+    - title: @somediceguys Dnd Podcasr
+      url: https://linktr.ee/somediceguys
+
+- category: Portfolio
+  items:
+    - title: Github
+      url: https://www.github.com/tedleyem
