@@ -1,3 +1,30 @@
+### Install as GitHub Remote Theme
+Go to your site's `_config.yml` and replace `theme:` with `remote_theme: digitalmalayali/linkhub-jekyll-theme`.
+
+### Install as Ruby Gem
+Add this line to your Jekyll site's `Gemfile`:
+
+```ruby
+gem "linkhub-jekyll-theme"
+```
+
+And add this line to your Jekyll site's `_config.yml`:
+
+```yaml
+theme: linkhub-jekyll-theme
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install linkhub-jekyll-theme
+
+
+
+
 <h1 align="center">
     <strong>Linkhub</strong>
 </h1>
