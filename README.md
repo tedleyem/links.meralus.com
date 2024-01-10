@@ -24,6 +24,9 @@ Or install it yourself as:
 
 
 
+---
+# RESOURCES
+https://github.com/digitalmalayali/linkhub-jekyll-theme
 
 <h1 align="center">
     <strong>Linkhub</strong>
